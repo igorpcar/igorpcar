@@ -8,4 +8,5 @@ Most of these projects leverage **NATS** as a messaging backbone, providing asyn
 - **iot-comssioning-app-showcase**: showcase of a fullstack application desiged to manage/comission IoT devices through network
 - **iot-data-pipeline**: ETL designed to transport IoT data from different, geographically distributed, factories, to a single cloud-based PostgreSQL server
 - **nats-router-explorer**: fullstack application used to route NATS messages (or different techonologies/protocols) to the end user, providing a smart routing system and a frontend with message tree visualizer
+- **remote-container-manager**: app composed of client and server binaries, used to start, stop and manager Docker containers remotely in edge IoT systems.
 - **others...**: the repositories are a work in progress, many others will still be added
