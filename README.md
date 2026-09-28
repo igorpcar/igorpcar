@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-This is my professional profile, where I share ideas, designs, and code solving complex IoT, edge-to-cloud pipelines, and distributed systems challenges I've encountered throughout my experience in backend, embedded systems, and R&D engineering.
+This is my professional profile, where I share ideas, designs, and code solving IoT, edge-to-cloud pipelines, and distributed systems challenges I've encountered throughout my experience in backend, embedded systems, and R&D engineering.
 
-Most of these projects leverage **NATS** as a messaging backbone, providing asynchronous communication between edge collectors, ingestion services, and time-series databases.
+Most of these projects leverage **NATS** as a messaging backbone, providing asynchronous communication between ingestion services databases.
 
 - **nats-cluster-showcase**: introduction to NATS and showcase of some possible uses of the architecture
 - **iot-data-pipeline**: ETL designed to transport IoT data from different, geographically distributed, factories, to a single cloud-based PostgreSQL server
